@@ -1,116 +1,93 @@
 <div align="center">
 
-# gustvxlz
+<img src="https://i.pinimg.com/1200x/a8/66/c1/a866c151b1512c1c63980d0a4472efb1.jpg" width="240" alt="profile art">
 
-```text
-software / automation / experiments
-```
+<br>
 
-<sub>
-I build things because repeating the same task twice is already suspicious.
-</sub>
+<samp><b>gustvxlz</b></samp>
+
+<br>
+
+<a href="https://github.com/gustvxlz">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=650&color=8B949E&center=true&vCenter=true&width=620&height=42&lines=automation+%2F%2F+mlops+%2F%2F+graphics;building+DISORDER;making+boring+work+disappear;weird+software+experiments" alt="Typing SVG">
+</a>
+
+<sub>software engineering · automation · controlled chaos</sub>
 
 </div>
 
----
-
-```text
-gustvxlz@github:~$ tree
-
-.
-├── automation
-├── machine-learning
-├── graphics
-├── procedural-systems
-└── weird-projects-that-shouldn't-work
-```
-
-I like building software that solves annoying problems, automates repetitive work,  
-or explores ideas that are just weird enough to become interesting.
-
-Most projects start with one of these thoughts:
-
-- **"can this be automated?"**
-- **"what happens if I push this further?"**
-- **"this probably shouldn't exist, but let's build it anyway"**
-
----
-
-## /projects
-
-### [TextureFlow](https://github.com/gustvxlz/TextureFlow)
-Neural texture super-resolution with local cache and reversible injection for DirectX 8/9/11 games.
-
-`python` `graphics` `experiments`
-
 <br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### [DISORDER](https://github.com/gustvxlz/disorder)
-Experimental game project focused on procedural systems, anomalies and unpredictable interactions.
+<sub>
+procedural systems, anomalies and things that should feel slightly wrong.
+</sub>
 
-`javascript` `three.js` `procedural generation`
+</td>
+<td width="33%" valign="top">
+
+### [TextureFlow](https://github.com/gustvxlz/TextureFlow)
+<sub>
+neural texture experiments for old DirectX games.
+</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### [holerite](https://github.com/gustvxlz/separador-de-holerite)
+<sub>
+because manually sorting documents is a terrible use of human life.
+</sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><code>~/about</code></summary>
 
 <br>
 
-### [separador-de-holerite](https://github.com/gustvxlz/separador-de-holerite)
-A practical automation tool built to reduce repetitive document work.
+```txt
+focus      -> mlops / automation / software
+language   -> python / javascript
+currently  -> building DISORDER
+rule       -> if it is repetitive, automate it
+location   -> brazil
+```
 
-`python` `automation` `ocr`
+> most projects begin with “can I make the computer do this instead?”
+
+</details>
+
+<details>
+<summary><code>~/activity --last 30d</code></summary>
 
 <br>
-
-### [bio](https://github.com/gustvxlz/bio)
-Small personal web project.
-
-`html`
-
----
-
-## /currently
-
-```text
-learning      software engineering
-exploring     ml / mlops
-building      disorder
-automating    repetitive workflows
-testing       ideas that may or may not be good
-```
-
----
-
-## /mindset
-
-```python
-while problem.exists():
-    understand(problem)
-    automate(problem)
-    improve(problem)
-```
-
----
-
-## /notes
-
-- I prefer building useful things over collecting empty projects.
-- I like software, automation, AI, graphics and systems that behave in unexpected ways.
-- If a task is boring enough, there's a good chance I'll try to make a machine do it for me.
-
----
-
-## /contact
-
-```text
-email    : gustvxlz1@gmail.com
-github   : github.com/gustvxlz
-location : brazil
-```
-
----
 
 <div align="center">
 
-<sub>
-between software engineering, automation and controlled chaos
-</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustvxlz&theme=github-compact&hide_border=true&hide_title=true&area=true&days=30" width="95%" alt="GitHub activity graph">
 
+</div>
+
+</details>
+
+<details>
+<summary><code>~/contact</code></summary>
+
+<br>
+
+`gustvxlz1@gmail.com`
+
+</details>
+
+<br>
+
+<div align="center">
+<sub>less profile. more lab.</sub>
 </div>
