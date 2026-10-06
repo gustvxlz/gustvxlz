@@ -1,93 +1,86 @@
-<div align="center">
+![Gustavo — automation, applied AI and game experiments](./assets/lab-header.gif)
 
-<img src="https://i.pinimg.com/1200x/a8/66/c1/a866c151b1512c1c63980d0a4472efb1.jpg" width="240" alt="profile art">
+<p align="center">
+  <a href="https://github.com/gustvxlz?tab=repositories"><b>explore the lab</b></a>
+  &nbsp; / &nbsp;
+  <a href="mailto:gustvxlz1@gmail.com">get in touch</a>
+</p>
+
+<br>
+
+### A practical problem. A weird idea. Something to build.
+
+I'm Gustavo, from Brazil. I build tools for repetitive work and experiment with applied AI and game development. Most projects start with a question: **“Can I make the computer do this instead?”**
+
+My direction is **MLOps**. Right now, I'm learning by building, testing and improving projects that I can actually use.
+
+`Python` &nbsp; `JavaScript` &nbsp; `Three.js` &nbsp; `Automation` &nbsp; `OCR`
 
 <br>
 
-<samp><b>gustvxlz</b></samp>
-
-<br>
-
-<a href="https://github.com/gustvxlz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=650&color=8B949E&center=true&vCenter=true&width=620&height=42&lines=automation+%2F%2F+mlops+%2F%2F+graphics;building+DISORDER;making+boring+work+disappear;weird+software+experiments" alt="Typing SVG">
-</a>
-
-<sub>software engineering · automation · controlled chaos</sub>
-
-</div>
-
-<br>
+## Selected builds
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### [DISORDER](https://github.com/gustvxlz/disorder)
-<sub>
-procedural systems, anomalies and things that should feel slightly wrong.
-</sub>
-
+<td width="50%" valign="top">
+<h3>01 / Suite de Produção</h3>
+<p>Excel workflows with less manual work. Extract production reports, match products and review entries before saving.</p>
+<p><code>Python</code> <code>Tkinter</code> <code>Excel</code></p>
+<a href="https://github.com/gustvxlz/suite-producao"><b>Explore the project →</b></a>
 </td>
-<td width="33%" valign="top">
-
-### [TextureFlow](https://github.com/gustvxlz/TextureFlow)
-<sub>
-neural texture experiments for old DirectX games.
-</sub>
-
+<td width="50%" valign="top">
+<h3>02 / Holerites + OCR</h3>
+<p>Turn batches of payroll PDFs into individual, named files. OCR, CSV matching and ZIP export in the browser.</p>
+<p><code>JavaScript</code> <code>OCR</code> <code>PDF</code></p>
+<a href="https://github.com/gustvxlz/separador-holerites-ocr"><b>Explore the project →</b></a>
 </td>
-<td width="33%" valign="top">
-
-### [holerite](https://github.com/gustvxlz/separador-de-holerite)
-<sub>
-because manually sorting documents is a terrible use of human life.
-</sub>
-
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / TextureFlow</h3>
+<p>Neural texture upscaling for older DirectX games. An experiment in improving detail while preserving the original look.</p>
+<p><code>Applied AI</code> <code>Graphics</code> <code>Textures</code></p>
+<a href="https://github.com/gustvxlz/TextureFlow"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>04 / DISORDER</h3>
+<p>Office comedy that turns into a stylized zombie FPS. A playground for gameplay, 3D graphics and controlled chaos.</p>
+<p><code>JavaScript</code> <code>Three.js</code> <code>Vite</code></p>
+<a href="https://github.com/gustvxlz/disorder"><b>Explore the project →</b></a>
+&nbsp; · &nbsp;
+<a href="https://gustvxlz.github.io/disorder/">Play in the browser</a>
 </td>
 </tr>
 </table>
 
-<details>
-<summary><code>~/about</code></summary>
+<br>
+
+## What connects the projects
+
+**Automation** gives me time back. **Applied AI** lets me test new possibilities. **Games** give me room to experiment with things that don't belong in an office spreadsheet.
+
+Different projects, the same habit: start with something interesting, build a version, find what breaks, improve it.
 
 <br>
 
-```txt
-focus      -> mlops / automation / software
-language   -> python / javascript
-currently  -> building DISORDER
-rule       -> if it is repetitive, automate it
-location   -> brazil
+<details>
+<summary><b>Open the field notes ↗</b></summary>
+
+<br>
+
+```text
+current direction   MLOps
+working languages   Python · JavaScript
+interests           automation · applied AI · graphics
+approach            prototype → test → improve
 ```
 
-> most projects begin with “can I make the computer do this instead?”
-
-</details>
-
-<details>
-<summary><code>~/activity --last 30d</code></summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustvxlz&theme=github-compact&hide_border=true&hide_title=true&area=true&days=30" width="95%" alt="GitHub activity graph">
-
-</div>
-
-</details>
-
-<details>
-<summary><code>~/contact</code></summary>
-
-<br>
-
-`gustvxlz1@gmail.com`
+These repositories include experiments and works in progress. Their READMEs explain the current scope, limitations and how to run them.
 
 </details>
 
 <br>
 
-<div align="center">
-<sub>less profile. more lab.</sub>
-</div>
+---
+
+<p align="center"><samp>built from curiosity. improved by doing.</samp></p>
