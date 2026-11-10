@@ -1,8 +1,6 @@
 # gustvxlz
 
-I'm Gustavo. I make tools for the work I do and experiment with graphics and games.
-
-Python and JavaScript. Currently studying automation and working toward MLOps.
+Hey!
 
 [Repositories](https://github.com/gustvxlz?tab=repositories) · [Email](mailto:gustvxlz1@gmail.com)
 
