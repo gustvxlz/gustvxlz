@@ -2,7 +2,7 @@
 
 Hey!
 
-[Repositories](https://github.com/gustvxlz?tab=repositories) · [Email](mailto:gustvxlz1@gmail.com)
+[Repositories](https://github.com/gustvxlz?tab=repositories) ·
 
 ## Projects
 
